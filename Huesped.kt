@@ -1,0 +1,1 @@
+class Huesped(var nombre: String, var id: Int)

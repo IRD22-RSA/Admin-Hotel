@@ -1,0 +1,1 @@
+class Habitacion(var numero: Int, var tipo: String, var precioPorNoche: Double)
